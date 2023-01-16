@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vignesh
-- 👀 I’m interested in python, machine learning, automation & iot projects
+- 👀 I’m interested in python, node js, react js, automation & iot projects
 
 <!---
 svnesh/svnesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
